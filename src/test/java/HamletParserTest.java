@@ -15,6 +15,9 @@ public class HamletParserTest {
 
     @Test
     public void testChangeHamletToLeon() {
+        String input = "hamlet beep HAMLET boop Hamlet bborp ";
+
+
     }
 
     @Test
